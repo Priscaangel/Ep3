@@ -1,0 +1,20 @@
+Para iniciar o programa é necessário primeiro abrir a pasta no terminal. Após abrir a pasta é necessário compilar o código, para efetuar a compilação é so digitar o seguinte comando:
+
+javac *.java
+
+
+Após executar esse comando o programa ja está pronto para ser iniciado pelos comandos a seguir:
+
+java Main 0
+
+ou
+
+java Main 1
+
+
+O comando contendo o "0" irá executar todas as listas utilizando a implementação de busca ingênua, mas caso o comando contenha "1" irá executar utilizando a implementação utilizando a busca binária.
+
+Assim o programa irá processar todas as listas contidas na pasta entradas e gerar um arquivo de saída chamado "saída.txt" que possui o tempo que o programa demorou em cada tarefa para executar cada implementação.
+
+
+
